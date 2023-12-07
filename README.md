@@ -1,7 +1,8 @@
+Based on the work of [JongHun.Lee](https://hackaday.io/project/190126-brother-label-tape-hack)
 | ABCD EFGHI                                  |                        |          |           |           |                    |            |            |           |
 |---------------------------------------------|------------------------|----------|-----------|-----------|--------------------|------------|------------|-----------|
 | 0 - Cassete Hole Open                       |                        |          |           |           |                    |            |            |           |
-| 1 - Casste Hole Close                       |                        |          |           |           |                    |            |            |           |
+| 1 - Cassete Hole Close                       |                        |          |           |           |                    |            |            |           |
 |                                             |                        |          |           |           |                    |            |            |           |
 | Ink colour                                  | Tape colour            | 3.5 mm   | 6 mm      | 9 mm      | 12 mm              | 18 mm      | 24 mm      | 36 mm     |
 | STANDARD LAMINATED - 8 METRES               |                        |          |           |           |                    |            |            |           |
