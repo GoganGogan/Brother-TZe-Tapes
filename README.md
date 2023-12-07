@@ -2,7 +2,7 @@ Based on the work of [JongHun.Lee](https://hackaday.io/project/190126-brother-la
 | ABCD EFGHI                                  |                        |          |           |           |                    |            |            |           |
 |---------------------------------------------|------------------------|----------|-----------|-----------|--------------------|------------|------------|-----------|
 | 0 - Cassete Hole Open                       |                        |          |           |           |                    |            |            |           |
-| 1 - Cassete Hole Close                       |                        |          |           |           |                    |            |            |           |
+| 1 - Cassete Hole Close                      |                        |          |           |           |                    |            |            |           |
 |                                             |                        |          |           |           |                    |            |            |           |
 | Ink colour                                  | Tape colour            | 3.5 mm   | 6 mm      | 9 mm      | 12 mm              | 18 mm      | 24 mm      | 36 mm     |
 | STANDARD LAMINATED - 8 METRES               |                        |          |           |           |                    |            |            |           |
@@ -61,8 +61,8 @@ Based on the work of [JongHun.Lee](https://hackaday.io/project/190126-brother-la
 | black                                       | pastel purple          |          |           |           | TZe-MQF31          |            |            |           |
 | black                                       | pastel pink            |          |           |           | TZe-MQE31          |            |            |           |
 | PATTERNED LAMINATED - 4 METRES              |                        |          |           |           |                    |            |            |           |
-| black                                       | silver lace            |          |           |           | T Ze - M P S L 3 1 |            |            |           |
-| black                                       | gold geometric         |          |           |           | TZe-M PGG31        |            |            |           |
+| black                                       | silver lace            |          |           |           | TZe-MPSL31         |            |            |           |
+| black                                       | gold geometric         |          |           |           | TZe-MPGG31         |            |            |           |
 | black                                       | red gingham            |          |           |           | TZe-MPRG31         |            |            |           |
 | black                                       | pink hearts            |          |           |           | TZe-MPPH31         |            |            |           |
 | RIBBON NON-LAMINATED - 4 METRES             |                        |          |           |           |                    |            |            |           |
