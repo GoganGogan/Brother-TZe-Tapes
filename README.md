@@ -1,4 +1,7 @@
 Based on the work of [JongHun.Lee](https://hackaday.io/project/190126-brother-label-tape-hack)
+
+![image belongs to JongHun.Lee](https://github.com/GoganGogan/Brother-TZe-Tapes/blob/main/Holes.jpg)
+
 | ABCD EFGHI                                  |                        |          |           |           |                    |            |            |           |
 |---------------------------------------------|------------------------|----------|-----------|-----------|--------------------|------------|------------|-----------|
 | 0 - Cassete Hole Open                       |                        |          |           |           |                    |            |            |           |
